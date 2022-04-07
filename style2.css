@@ -1,0 +1,42 @@
+body{
+    margin: 0;
+}
+
+.base{
+    height: 600px;
+    background: midnightblue;
+    display: flex;
+}
+
+
+.box{
+    height: 200px;
+    width: 200px;
+    background: mediumpurple;
+    position: absolute;
+    margin-top: 500px;
+    margin-left: 550px;
+    border-radius: 10px;
+}
+.box2{
+    height: 200px;
+    width: 200px;
+    background: mediumpurple;
+    position: absolute;
+    margin-top: 500px;
+    margin-left: 850px;
+    border-radius: 10px;
+}
+.box3{
+    height: 200px;
+    width: 200px;
+    background: mediumpurple;
+    position: absolute;
+    margin-top: 500px;
+    margin-left: 1150px;
+    border-radius: 10px;
+}
+
+
+
+
